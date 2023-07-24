@@ -1,0 +1,15 @@
+---
+author: cmuk
+comments: true
+date: 2010-11-11 18:53:09+00:00
+layout: post
+link: https://mckellar.wordpress.com/?p=517
+published: false
+slug: kinect-fun
+title: Kinect fun
+wordpress_id: 517
+categories:
+  - Other Projects
+---
+
+Kinect has been out for 2 months now and already it’s made a big impact in the games industry, I was really excited for kinect having seen it previously last year, I got kinect went it first came out but for me it’s not really about the games it’s about the experience and how to innovate in what seems like such a controversial industry, Kinect has had mainly a positive reception while a lot of hardcore gamers despise it and would never use it, it’s still a huge technical leap, It seems to innovate you need to take risk else it seems you spend years iterating over the same technology with add-ons or sequels, from a design innovation point of view the sega dreamcast let developers go wild and come up with whatever they could imagine this why we got space channel 5, Jet set radio and some other very obscure titles, now companies are so afraid of taking a risk or gamble unless they have the money to do so, for kinect I could see straight away the potential for modding, and reverse engineering the camera, and this is exactly what happened, some of the best things to come out of kinect have come from the community and sheer dedication and excitement it has sparked over different industry not just games, musicians have created musical apps, even the field of robotics has used the camera sensing used for path finding, the community are pushing what is already and advancement in technology, the guy who got two kinect cameras to face each other so he could map depth values from the back to create more 3D, this is what it’s all about inspiring others to push technology further, I’m sure Microsoft are keeping a keen eye on the community’s and gaining ideas from others, they have done most of the hard work with the research and time spent developing kinect, now it’s down to the community to create the magic. I also think MS have another trick up their sleeves with the ability to upgrade the hardware through a software firmware update this could allow great resolutions for the camera, as the modding community have already got it running and twice the resolution, makes good sense for MS to enabled this in the future for more advanced kinect games. I have briefly played around with kinect on windows 7 with some drivers available, in my spare time I hope to create fun little apps

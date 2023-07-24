@@ -1,0 +1,36 @@
+---
+author: cmuk
+comments: true
+date: 2015-12-10 10:11:09+00:00
+layout: post
+link: https://mckellar.wordpress.com/2015/12/10/wear-hiit/
+slug: wear-hiit
+title: Wear HIIT
+wordpress_id: 629
+tags:
+  - Android
+  - Android Wear
+  - Watch
+---
+
+Wear HIIT is an interval timer for android wear providing you with the easiest and efficient way to workout. HIIT can be used in a wide range of exercises from running, weight lifting, cycling etc. Simply set up your timings and go
+
+Features:
+
+Round time - minutes and seconds
+Rest time - minutes and seconds
+Round time left - counts down
+Elapsed time - counts up the total time
+Round progress - shows the current round out of total rounds
+Vibration feedback lets you know when you are going into a new round or a rest round without the need to look at your watch
+Easy to use interface - swipe left to setup your custom workout
+Always on clear display lets you see your progress
+Persistent settings - remembers every time you open the app
+Round and Square - works with any android wear screen shape
+Warm up time - minutes and seconds
+Warm down time - minutes and seconds
+Custom round vibration - create your own vibration pattern
+Custom rest vibration - create your own vibration pattern
+Styles - Fully customization colours of everything you see on your watch
+
+![watch.png](https://mckellar.files.wordpress.com/2016/02/watch.png)

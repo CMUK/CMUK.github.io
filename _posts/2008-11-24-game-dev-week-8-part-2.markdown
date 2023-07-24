@@ -1,0 +1,16 @@
+---
+author: cmuk
+comments: true
+date: 2008-11-24 08:30:56+00:00
+layout: post
+link: https://mckellar.wordpress.com/2008/11/24/game-dev-week-8-part-2/
+slug: game-dev-week-8-part-2
+title: Game Dev Week 8 Part 2
+wordpress_id: 163
+categories:
+  - Game Development Techniques
+---
+
+Following on from last weeks lecture on player experience and entering “Crunch Time” with only 3 weeks to go until the deadline for this 12 week project, I have been putting even more hours in to get my game closer to my goal. I changed the AI from inheriting from Monster to Pawn and added state management meaning Timmy the dog can now go to different states such as walking, idle and move to path. This is all done randomly and at different intervals. This makes the players experience more believable and real, before he was always in Attacking state trying to melee the main character. I also got matinée working for 2 puzzles and my intro although I haven’t managed to get the audio working with it that will be next weeks tasks. I also put in search able boxes with random items placed in them to make it a different every time you play. I made my puzzles in the caves and got them all working good they only need tweaking for difficulty now. I made my main maze puzzle more detailed by adding cave meshes to make it look less square and maze like. I added my pickup mini game in the caves to get the player to find there way around the caves. I added a NPC woman character to my lighthouse and implemented a talk tree conversation system in which I can have talk to her and find clues and help. At the moment it’s a basic talk tree which will advance the plot. I intend to have more than 1 talk tree which will be different when items are picked up.
+
+[![](http://i81.photobucket.com/albums/j223/CMUK/UT20042008-11-2321-12-29-35.png)](http://i81.photobucket.com/albums/j223/CMUK/UT20042008-11-2321-12-29-35.png)[![](http://i81.photobucket.com/albums/j223/CMUK/UT20042008-11-2321-12-38-85.png)](http://i81.photobucket.com/albums/j223/CMUK/UT20042008-11-2321-12-38-85.png)[![](http://i81.photobucket.com/albums/j223/CMUK/UT20042008-11-2321-13-32-64.png)](http://i81.photobucket.com/albums/j223/CMUK/UT20042008-11-2321-13-32-64.png)[![](http://i81.photobucket.com/albums/j223/CMUK/UT20042008-11-2321-13-39-01.png)](http://i81.photobucket.com/albums/j223/CMUK/UT20042008-11-2321-13-39-01.png)[![](http://i81.photobucket.com/albums/j223/CMUK/UT20042008-11-2321-13-56-87.png)](http://i81.photobucket.com/albums/j223/CMUK/UT20042008-11-2321-13-56-87.png)[![](http://i81.photobucket.com/albums/j223/CMUK/UT20042008-11-2321-14-41-28.png)](http://i81.photobucket.com/albums/j223/CMUK/UT20042008-11-2321-14-41-28.png)[![](http://i81.photobucket.com/albums/j223/CMUK/UT20042008-11-2321-15-39-57.png)](http://i81.photobucket.com/albums/j223/CMUK/UT20042008-11-2321-15-39-57.png)[![](http://i81.photobucket.com/albums/j223/CMUK/UT20042008-11-2321-16-03-54.png)](http://i81.photobucket.com/albums/j223/CMUK/UT20042008-11-2321-16-03-54.png)[![](http://i81.photobucket.com/albums/j223/CMUK/UT20042008-11-2321-16-44-09.png)](http://i81.photobucket.com/albums/j223/CMUK/UT20042008-11-2321-16-44-09.png)

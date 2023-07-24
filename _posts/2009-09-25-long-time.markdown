@@ -1,0 +1,18 @@
+---
+author: cmuk
+comments: true
+date: 2009-09-25 19:24:13+00:00
+layout: post
+link: https://mckellar.wordpress.com/2009/09/25/long-time/
+slug: long-time
+title: Long time....
+wordpress_id: 426
+categories:
+  - Other Projects
+---
+
+So I’ve not been posting on here for a few months now, I have been incredibly busy with just finishing my second year of university and going on to my placement year. I have been searching for jobs, playing games, Making games and thinking up some great game ideas. So I am currently on my placement working at the amazing [Monumental Games](http://www.monumentalgames.com/). I’ve been here two months now and loved every minute. It’s a design role so I’ve been scripting in TCL, using many of their great in house tools for things like collision, item placement, world building etc. It’s a nice change from programming, I can easily communicate my game ideas and see them working in game which leaves you with a great feeling of satisfaction, when it works. So I started off working on the design team for [Football Superstars](http://footballsuperstars.com/) a free MMO this was so much fun, I’ve learnt so much from it and also PHP and SQL for the databases. You also learn how an MMO works and a lot about servers.
+
+So after two months I went through an interview to move over onto the design team of [MotoGP 09/10](http://www.playmotogp.com) this was my dream job to work on a triple A title, I also love the fact it’s a Racing game one of my favourite genres. This experience is so much different to working on an MMO. For a start its working with different hardware, development 360s and PS3s, but the main difference is MMOs don’t really have fixed deadlines you can always role live updates out every few months whereas on tripple A titles you have to plan and work to deadlines.  I’ve also joined at a bit of an odd time the game is going into beta stage. I can’t say too much about the game but its very fun to play :P
+
+So the updates here are getting less and less due to me being busy with work. However I am working on two secret projects which I will reveal in the next coming months, One is a very unique idea which I got a quick prototype running by modifying my DirectX engine however I have now decided to rebuild it using XNA. Why, well you get more flexibility with XNA you can use existing samples such as the networking sample to allow network play, I can also make my idea look graphically better and handle more objects on screen. I will reveal my idea soon. The other game idea is also an XNA project which I working on with a friend. I am currently only working on it at the weekends so progress is slow; we hope to enter it into next year’s dream build play.

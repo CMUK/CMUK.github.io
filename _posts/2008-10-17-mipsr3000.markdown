@@ -1,0 +1,85 @@
+---
+author: cmuk
+comments: true
+date: 2008-10-17 11:03:08+00:00
+layout: post
+link: https://mckellar.wordpress.com/2008/10/17/mipsr3000/
+slug: mipsr3000
+title: MIPSr3000
+wordpress_id: 54
+categories:
+  - Console Development
+---
+
+This week i have been looking at the playstation again and used a dissembler to look at assembly language. I couldn't make much sense of it as its all new and confusing but i did manage to research some of the playstations protection code used in games. The playstation has a protection called LibCrypt which is composed of two routines. The first routine makes a check on the CD to see if its original if its not the second routine crashes the playstation. The code written for this is assembly and is in the playstations registers. The playstation also generates a 16 bit number based on a recursive algorithm this is stored in the BCP register and used in parameters. If the CD is not original then the number will be different and not work causing the playstation to crash. This check on the 16 bit number varies between games with some checking at different CD loading times or some checking at certain levels.
+
+most emulators struggle to emulate the playstation as there lack of low level access to the CD-ROM. Also the 16bit number changes on all games in different countries so its hard to bypass universally. You would still require the original CD to get the code and to change the copys code is the best way as it requires less coding. The other way would be via action replay cartridge editing the memory.
+
+![](http://i81.photobucket.com/albums/j223/CMUK/MIPS.png)
+
+Binary revision
+
+binary | decimal
+0         |        0
+1         |        1
+10       |        2
+11       |        3
+100     |        4
+
+Converting to a decimal
+
+100101
+
+[(1)*2^5]+[(0)*2^4]+[(0)*2^3]+[(1)*2^2]+[(0)*2^1]+[(1)*2^0] = 32
+
+Addition
+
+0 + 0 > 0                                 * 1111 *< carried 1s
+0 + 1 > 1                                  01101
+1 + 0 > 1                          +      10111
+1 + 1 > 0, carry 1                    **100100**
+
+Subtraction
+
+0 - 0 > 0                              * 1 111 * < borrowed 1s
+0 - 1 > 1,borrow 1              1101110
+1 - 0 > 1                           -    10111
+1 - 1 > 0                             \*\*1010111
+
+Hexadecimal\*\*
+
+\***\*base of 16. **0**–**9\*\* to represent values zero to nine, and _A_, _B_, _C_, _D_, _E_, _F_ to represent values ten to fifteen.
+
+**CONVERTING DECIMAL TO HEXADECIMAL**
+
+**Steps:
+**
+
+1. Divide the decimal number by 16.   Treat the division as an integer division.
+2. Write down the remainder (in hexadecimal).
+3. Divide the result again by 16.  Treat the division as an integer division.
+4. Repeat step 2 and 3 until result is 0.
+5. The hex value is the digit sequence of the remainders from the last to first.
+
+decimal = 1128
+
+1128 / 16 = 70.5 = result = **70** decimal = 0.5 _ 16 = **8**
+70 / 16 = 4.375 = result = **4** decimal = 0.375 _ 16 = **6**
+4/16 = result = **0** decimal = 0.25 \* 16 =** 4**
+
+Result = 0 so stop and get the answer from the remainders last to first = **468**
+
+**Converting Hexadecimal to Decimal**
+
+**1128 =
+**8 x (16^0) = 8
+2 x (16^1) = 32
+1 x (16^2) = 256
+1 x (16^3) = 4096**
+8+32+256+4096 = 4392**
+
+**http://www.permadi.com/tutorial/numHexToDec/index.html**
+
+---
+
+---

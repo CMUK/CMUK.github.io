@@ -1,0 +1,20 @@
+---
+author: cmuk
+comments: true
+date: 2009-03-22 19:45:44+00:00
+layout: post
+link: https://mckellar.wordpress.com/2009/03/22/applied-game-development-week-8/
+slug: applied-game-development-week-8
+title: Applied Game Development Week 8
+wordpress_id: 387
+categories:
+  - Applied Game Development
+---
+
+With just one week to go until the alpha deadline we have been working nonstop to get all features in. After 3 or 4 weeks of going trying many different ways to get collision working with the artists bounding boxes Barry found out that it was his collision system that was at fault. He had based it off the Gamebryo sample that used a different collision system and this was the problem. He fixed collision so it now works with the artists bounding boxes. This week I worked again with Jamie to get a lap system working and a split lap time feature. The pickup system is also finished and working in game.
+
+The biggest problem was getting the checkpoints working. We were using NiPoint3 to place the spheres to act as checkpoints. The first problem was where we placed the checkpoint was not where it actually was in coordinates. We finally figured it out it was the z and y was the wrong way round as y acted as the z for height. After this we got two checkpoints a start/end and a midpoint checkpoint due to time constraints we had to hard code it and use some simple maths to work out the ship colliding. This will be converted later on to work with the collision system and Nodes so the artists can place the pickups using Maya. This worked now and again but when I placed it in the new track for some reason it didn’t work we spent a few hours taking code out and working from a previous build that worked but we still have no idea why it wouldn’t collide with the midpoint check or how it fixed itself.
+
+I worked a bit with Dom on solving the bullet deleting problem. Andy got sound implemented and we now have music playing. I also worked with Andy to set up the game to work in release mode this took longer than expected as the sound manager required lib files we hadn’t included in release. I added a frame rate to the HUD and when we got the new track in it was going at around 23 frames a second which was laggy and not acceptable. We think it’s to do with the ray trace down to work out hover it may be checking all polygons in the track. In release mode we were getting 100 frames a second which was impressive considering its 23 in debug. Dom has been working on a state manger and the replay system.
+
+We have made some good progress this week it really helped getting the artists track in so we could see our game coming together. We also thought about USPs and came up with the idea of jumping and dodging. Making good use of Barry’s hovering code we will be making it a big part of the game. We came up with the idea of jumping to pickup powerups but at the same time you lose fuel for jumping. There will be bits on the track you need to jump over such as burnt out cars blocking half the track. At the start of the week I emailed around a document highlighting where we are at. It showed what was in the current build and what needed to be in the alpha build. I also addressed issues and concerns such as the AI, State based and the replay system. I will be doing the same for next week. We have worked well on getting everyones code together into builds we are on revision 106 and have gone through about 9 revision in the past week.

@@ -1,0 +1,26 @@
+---
+author: cmuk
+comments: true
+date: 2009-04-02 16:28:34+00:00
+layout: post
+link: https://mckellar.wordpress.com/2009/04/02/mobile-devices-development-diary-5/
+slug: mobile-devices-development-diary-5
+title: Mobile Devices Development Diary 5
+wordpress_id: 403
+categories:
+  - Mobile Devices
+---
+
+Thursday 02 April – Bluetooth
+
+I spent most of today trying to figure out why it was missing the first move. I ended up re writing the Bluetooth about 6 times trying many different ways of sending and receiving the data. I wrote lots of diagrams on paper to help try and solve the problem. I wrote the sending and receiving pseudo code and helped spot my first problem which was to do with the double for loop sending, I found that it would send if the player had placed all ships. On receiving it would receive the grid in the double for loop but then outside the double for loop it would then get if the player has placed their ships. This meant it would be receiving the data in the wrong order.  I left the problem of it not detecting the enemy ship on the first go out and focused on getting it to update on the AI grid when the other player has fired. This involved sending my current playing grid with my attacked grids to the other players’ phone and to store it in there AI grid. I ran into a problem it would update my AI grid with my actions so it was acting like a mirror to my moves. I never did figure out why it was doing this after looking at how it sends the AI grid to the player and for the player to store it in the AI why couldn’t you just do the same for the player’s grid and store it in the other players AI grid? As this all sounds very complex it’s easy to get even more confused and make it even more complicated, which is what happened I ended up having 6 different versions all with different problems in the Bluetooth.
+
+One version would just send my position and update it on the enemy’s grid so every time I moved it counted as firing or setting the cell. Getting more frustrated about how long Bluetooth was taking I decided to take a step back and start again with the basics. I knew that it could send and receive each player’s grid, storing it as the enemy on each mobile so I kept this in. I also knew that it didn’t need to be sent every second it could be placed in the player’s fire method. Instead of sending the players grid to the other player to store in there AI grid I decided to just sent my x and y position.
+
+From the AI class receiving the x and y it could then store this as the opponents shot to do this I passed the x and y to AI go method this would then make a check on its own grid and see if the passed in x and y equals its own ship if so then lose part of the ship. This worked perfectly and was exactly what I was trying to achieve all day when trying to pass the whole grid in but couldn’t get it to work.
+
+The next problem to solve was why it wouldn’t get the enemy’s ship on the first go. I tried many times debugging and looking through the grids I even got it displaying on screen so I could check. I sent a counter out and got the other mobile to receive it to check they were in sync. On doing this I found the counters to go out of sync when one player placed there ships down and started before the other. I thought this may be the problem and that data was getting sent and received in the wrong order causing them to go out of sync on the first move. I made it send if the player had finished placing their ships. The other player could then check this and check if they had finished placing their ships if so then send data back or receive data. This made no difference.
+
+I then went back to paper and pen approach and mapped out what was happening I drew step by step what was happening and then I found out why it was out sync. It was because phone 1 would send its AI grid and at the same time try and receive phone 2s AI grid and store it in its own AI grid. The problem is what if you sent out data but the other phone hasn’t sent any data out you are then receiving nothing so your AI grid is going to contain no ships whereas the other player will receive your data and make it look like the other phone is in sync and working. On the next go it would work fine as the both grids would have been sent and received.
+
+So now I knew the problem I was half way there to solving it I ran through my methods of sending and receiving and tried rearranging part of my method like I tried earlier.  So in the player(server) class when the player takes their turn it needs to send their AI grid(initial ships placed) and then check the other player/mobile AI grid for a hit or miss. This made it work all the time simply sending data before receiving it is what fixed it. This problem has taken 2 days and about 12 hours to solve and has been the hardest problem so far. The results are worth it I now have a perfectly working Bluetooth battleships game, and a clearer understanding of Bluetooth and the server/client all in one approach. I may try and optimise the Bluetooth later so instead of sending 48 ints I could change the data type to a byte making it 8 bits per byte compared to the 32 bits per int allowing less data to be sent. As it stands I have met the final phase’s milestones which were to get Bluetooth mode and finish graphics for the game.

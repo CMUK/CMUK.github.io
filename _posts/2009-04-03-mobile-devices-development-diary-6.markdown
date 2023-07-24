@@ -1,0 +1,28 @@
+---
+author: cmuk
+comments: true
+date: 2009-04-03 15:42:58+00:00
+layout: post
+link: https://mckellar.wordpress.com/2009/04/03/mobile-devices-development-diary-6/
+slug: mobile-devices-development-diary-6
+title: Mobile Devices Development Diary 6
+wordpress_id: 405
+categories:
+  - Mobile Devices
+---
+
+Friday 03 April – Sound, Options and finishing the game
+
+After getting Bluetooth done yesterday I spent most of today refactoring and adding small features. I began by adding sound, on researching this it seemed to be only 3 lines of code to set up a sound manager and to play the wav file. I followed the book on how to play a local resource sound file and hit a problem. On setting up the manager it said Incompatible type I tried changing it to play a sound from the internet thinking it might just be the local directory or the file but I was still getting the same error. To create a sound manager you call Player player the problem I was getting was I already had a class file named Player (server) which is the type the sound manager needs. I renamed my Player class and it fixed this problem.
+
+The next problem I had was to do with the sound playing every second when you hit an enemy ship. I fixed this by checking the location of the text when it is at the top of the screen play the sound. I made the sound method take a string in its parameters this was the name of the file to play. This meant I could use the same method for losing just passing in the losing sound name. This fixed it because the text moves down the screen, it’s only going to hit the location once.
+
+On testing the game out I found a bug in the layers it should take away a grid when you win or lose and display the relevant text. On the first go it would work fine but when you restart the game it would not remove the grid at the end. I started by changing the way the grids add to the layers I thought as they were being appended it was getting the order wrong. I changed it to insert and gave the layers fixed numbers. This didn’t do anything the next thing I tried was changing the end state when you win or lose instead of removing the layer I made it set the visibility of the layer. Again this didn’t fix it. I then looked at the reset method again and switched around create player board and create the AI board this fixed it, the reason I didn’t spot it before was I was thinking about the way it gets created but when you think it is getting removed in reverse, then it should get placed down the opposite way.
+
+After getting the sound working I needed a way to give the user the option of sound. I looked at Choice Group which allows a tick box for on or off.  I created an options form which had I appended the choice group to it and added an OK command. I had troubles getting it to listen for my OK command I thought I was setting up my OK command but was actually just using an existing one which was already getting handled in the commandAction method. I ended up taking it out and just checking the is selected variable which is part of the ChoiceGroup this worked great and gave me the choice of sound. I then went on to add the menu command to the main game form allowing the user to get back to the menu, I had a few problems with this as starting a game and going back into the menu then to a new game would cause the game to run faster than usual. I realised where I was going wrong as every time you start a game it goes to the Run method, and each time I was doing that it wasn’t ending the previous game causing it to run faster. I solved this by just calling game end when I went back to the main menu.
+
+The next thing I got working was vibration this was just one line and is part of the display library; the next problem was how to get the display from the midlet in my HUD class. I ended up passing it from the midlet class to the main battleships class through the main constructor this allowed me to get it and use it in my HUD class, like the sound problem earlier I put it in the sound method and surrounded it with if vibration was selected in the menu. By putting it in the sound method it meant it would only be called once when the ship had been hit. Inside the sound method it needed to check if sound was selected in the midlet class so I surrounded this in an if statement this meant I could have either sound or vibration or both selected.
+
+The final thing I put in my game was Record set I had already experimented with this before when I made a pong game and adapted it to save the players best score. I simply copied the record set classes over and changed the variables it was saving and loading. Initially I set a variable score loaded to = 0 in my Hud class then when you win a game it would load from the record set into the score loaded variable, Increment it by 1 and save it out. The increment didn’t work and I ended up making it +=1. Back in the main menu I made a stats form which would display games player, win and loses I made this load in from the record set which would display from the record.
+
+And that’s it the game is finished all that was left to do was add some more comments to my code and do some more refactoring and cleaning up. I am happy with the way it’s gone I have achieved a lot in just a small amount of time I have hit all the phases and even got features I hadn’t planned in such as sound and stats. Overall Bluetooth has been the hardest thing to get in taking 2 days of hard work to get working it’s something I never thought I would have time to do but has made it even better. Deploying it to my mobile to see it working first hand was gave me a great sense of achievement it was nice to hear the sound coming from the mobile and seeing it store the stats.
