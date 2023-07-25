@@ -18,7 +18,6 @@
 name                     : "Chris McKellar"
 description              : "Software Engineer"
 url                      : "https://cmuk.github.io"
-
 repository               : "CMUK/CMUK.github.io"
 email:
 description: >- # this means to ignore newlines until "baseurl:"
