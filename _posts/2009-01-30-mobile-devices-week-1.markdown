@@ -1,12 +1,6 @@
 ---
-author: cmuk
-comments: true
 date: 2009-01-30 20:33:03+00:00
-layout: post
-link: https://mckellar.wordpress.com/2009/01/30/mobile-devices-week-1/
-slug: mobile-devices-week-1
 title: Mobile Devices Week 1
-wordpress_id: 231
 categories:
   - Mobile Devices
 tags:

@@ -1,12 +1,6 @@
 ---
-author: cmuk
-comments: true
 date: 2008-11-11 11:22:04+00:00
-layout: post
-link: https://mckellar.wordpress.com/2008/11/11/game-dev-week-6/
-slug: game-dev-week-6
 title: Game Dev Week 6
-wordpress_id: 149
 categories:
   - Game Development Techniques
 ---
@@ -15,4 +9,4 @@ This weeks game dev i have been looking more at unreal script. I have sorted out
 
 Loading screen
 
-[![](http://i81.photobucket.com/albums/j223/CMUK/UT20042008-11-0812-34-24-48.png)](http://i81.photobucket.com/albums/j223/CMUK/UT20042008-11-0812-34-24-48.png)
+[![](/assets/images/UT20042008-11-0812-34-24-48.png)](/assets/images/UT20042008-11-0812-34-24-48.png)

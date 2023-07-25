@@ -1,12 +1,6 @@
 ---
-author: cmuk
-comments: true
 date: 2008-10-14 13:34:58+00:00
-layout: post
-link: https://mckellar.wordpress.com/2008/10/14/game-dev-week-2/
-slug: game-dev-week-2
 title: Game Dev Week 2
-wordpress_id: 56
 categories:
   - Game Development Techniques
 ---

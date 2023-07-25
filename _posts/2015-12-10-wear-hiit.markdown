@@ -1,12 +1,6 @@
 ---
-author: cmuk
-comments: true
 date: 2015-12-10 10:11:09+00:00
-layout: post
-link: https://mckellar.wordpress.com/2015/12/10/wear-hiit/
-slug: wear-hiit
 title: Wear HIIT
-wordpress_id: 629
 tags:
   - Android
   - Android Wear
@@ -33,4 +27,4 @@ Custom round vibration - create your own vibration pattern
 Custom rest vibration - create your own vibration pattern
 Styles - Fully customization colours of everything you see on your watch
 
-![watch.png](https://mckellar.files.wordpress.com/2016/02/watch.png)
+![watch.png](/assets/images/2016/02/watch.png)

@@ -1,12 +1,6 @@
 ---
-author: cmuk
-comments: true
 date: 2014-12-07 10:43:36+00:00
-layout: post
-link: https://mckellar.wordpress.com/2014/12/07/gear-fit-camera/
-slug: gear-fit-camera
 title: Gear Fit Camera
-wordpress_id: 609
 tags:
   - Android
   - Gear Fit Watch
@@ -28,4 +22,4 @@ SAMSUNG_CUP_ENABLED
 
 [https://play.google.com/store/apps/details?id=com.cmuk.gearfit.camera](https://play.google.com/store/apps/details?id=com.cmuk.gearfit.camera)
 
-[![1](https://mckellar.files.wordpress.com/2014/12/1.png?w=300)](https://mckellar.files.wordpress.com/2014/12/1.png) [![2](https://mckellar.files.wordpress.com/2014/12/2.png?w=300)](https://mckellar.files.wordpress.com/2014/12/2.png) [![3](https://mckellar.files.wordpress.com/2014/12/3.png?w=300)](https://mckellar.files.wordpress.com/2014/12/3.png)
+[![1](/assets/images/2014/12/1.png?w=300)](/assets/images/2014/12/1.png) [![2](/assets/images/2014/12/2.png?w=300)](/assets/images/2014/12/2.png) [![3](/assets/images/2014/12/3.png?w=300)](/assets/images/2014/12/3.png)

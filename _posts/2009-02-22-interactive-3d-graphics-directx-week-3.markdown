@@ -1,12 +1,6 @@
 ---
-author: cmuk
-comments: true
 date: 2009-02-22 18:11:04+00:00
-layout: post
-link: https://mckellar.wordpress.com/2009/02/22/interactive-3d-graphics-directx-week-3/
-slug: interactive-3d-graphics-directx-week-3
 title: Interactive 3D Graphics (DirectX) Week 3
-wordpress_id: 326
 categories:
   - Interactive 3D Graphics (DirectX)
 ---
@@ -23,4 +17,4 @@ After putting my Terrain App into the new framework and setting up the **Lost De
 
 Overall this week a lot of time has been spent on DirectX not just implementing new classes but refactoring my code and making it easier to read. I hope to get texturing and lighting done by next week and start to look at basic collision with the terrain.
 
-[![](https://mckellar.files.wordpress.com/2011/04/textdebug1.png)](https://mckellar.files.wordpress.com/2011/04/textdebug1.png)
+[![](/assets/images/2011/04/textdebug1.png)](/assets/images/2011/04/textdebug1.png)

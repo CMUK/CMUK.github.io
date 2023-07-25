@@ -1,16 +1,10 @@
 ---
-author: cmuk
-comments: true
 date: 2008-12-01 09:03:57+00:00
-layout: post
-link: https://mckellar.wordpress.com/2008/12/01/game-dev-week-9/
-slug: game-dev-week-9
 title: Game Dev Week 9
-wordpress_id: 178
 categories:
   - Game Development Techniques
 ---
 
 This week’s game dev I have been implementing another puzzle the famous QTE (Quick Time Event) used in 1 of the greatest games ever Shenmue. This went quite well and was easier to implement that I first thought. I then looked at sound and had troubles trying to create and load .IT files which are music files unreal used to use. After finding out it no longer supports it I was able to make .uax packages through importing in unreal Ed. I made my intro matinee better and added sound narration used in the audio books to tell the story. I also added the sound of a dog barking when the dog plays it barking animation it plays the sound. I used the freesound project to find my free sounds which were quite impressive. I found good ambient music for the caves which really fits the mood as it gets quite tense down there. I sorted out my controller to work with the talk tree system however it’s still a bit buggy with the pressing of the button causing 4 presses but I will fix that in the coming weeks. I also got it working with the main menu. I added two smugglers to my maze which will follow scripted paths but can go down random tunnels if they catch you then you will fail u need to sneak past them. Also improved my caves adding flaming torches and made the final treasure room with a kActor physics bridge which adds more realism. After going through the maze the player will need to feel achievement and reward so the end has no puzzles and plays the final matinee when you are in the treasure room. Overall the game is looking good and I am confident with deadlines. I probably won’t be adding any new mini games in as I need to bug fix a few problems and polish the game more.
 
-[![](http://i81.photobucket.com/albums/j223/CMUK/UT20042008-12-0107-54-43-84.png)](http://i81.photobucket.com/albums/j223/CMUK/UT20042008-12-0107-54-43-84.png)[![](http://i81.photobucket.com/albums/j223/CMUK/UT20042008-12-0107-54-58-90.png)](http://i81.photobucket.com/albums/j223/CMUK/UT20042008-12-0107-54-58-90.png)[![](http://i81.photobucket.com/albums/j223/CMUK/UT20042008-12-0107-55-21-70.png)](http://i81.photobucket.com/albums/j223/CMUK/UT20042008-12-0107-55-21-70.png)[![](http://i81.photobucket.com/albums/j223/CMUK/UT20042008-12-0107-55-53-92.png)](http://i81.photobucket.com/albums/j223/CMUK/UT20042008-12-0107-55-53-92.png)[![](http://i81.photobucket.com/albums/j223/CMUK/UT20042008-12-0107-57-10-32.png)](http://i81.photobucket.com/albums/j223/CMUK/UT20042008-12-0107-57-10-32.png)
+[![](/assets/images/UT20042008-12-0107-54-43-84.png)](/assets/images/UT20042008-12-0107-54-43-84.png)[![](/assets/images/UT20042008-12-0107-54-58-90.png)](/assets/images/UT20042008-12-0107-54-58-90.png)[![](/assets/images/UT20042008-12-0107-55-21-70.png)](/assets/images/UT20042008-12-0107-55-21-70.png)[![](/assets/images/UT20042008-12-0107-55-53-92.png)](/assets/images/UT20042008-12-0107-55-53-92.png)[![](/assets/images/UT20042008-12-0107-57-10-32.png)](/assets/images/UT20042008-12-0107-57-10-32.png)

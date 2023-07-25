@@ -1,12 +1,6 @@
 ---
-author: cmuk
-comments: true
 date: 2009-09-25 19:24:13+00:00
-layout: post
-link: https://mckellar.wordpress.com/2009/09/25/long-time/
-slug: long-time
 title: Long time....
-wordpress_id: 426
 categories:
   - Other Projects
 ---

@@ -1,12 +1,6 @@
 ---
-author: cmuk
-comments: true
 date: 2009-03-01 11:34:02+00:00
-layout: post
-link: https://mckellar.wordpress.com/2009/03/01/console-development-semester-2-week-5/
-slug: console-development-semester-2-week-5
 title: Console Development Semester 2 Week 5
-wordpress_id: 344
 categories:
   - Console Development Semester 2
 ---

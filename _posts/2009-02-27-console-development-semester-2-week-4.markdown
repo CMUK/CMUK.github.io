@@ -1,12 +1,6 @@
 ---
-author: cmuk
-comments: true
 date: 2009-02-27 17:56:44+00:00
-layout: post
-link: https://mckellar.wordpress.com/2009/02/27/console-development-semester-2-week-4/
-slug: console-development-semester-2-week-4
 title: Console Development Semester 2 Week 4
-wordpress_id: 341
 categories:
   - Console Development Semester 2
 ---

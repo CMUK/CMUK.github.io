@@ -1,12 +1,6 @@
 ---
-author: cmuk
-comments: true
 date: 2014-12-07 10:47:33+00:00
-layout: post
-link: https://mckellar.wordpress.com/2014/12/07/gear-fit-places/
-slug: gear-fit-places
 title: Gear Fit Places
-wordpress_id: 614
 tags:
   - Android
   - Gear Fit Watch
@@ -26,4 +20,4 @@ Works with GPS enabled or with wireless network turned on in location services
 
 [ https://play.google.com/store/apps/details?id=com.cmuk.gearfit.places](https://play.google.com/store/apps/details?id=com.cmuk.gearfit.places)
 
-[![1](https://mckellar.files.wordpress.com/2014/12/11.png)](https://mckellar.files.wordpress.com/2014/12/11.png) [![2](https://mckellar.files.wordpress.com/2014/12/21.png?w=300)](https://mckellar.files.wordpress.com/2014/12/21.png) [![3](https://mckellar.files.wordpress.com/2014/12/31.png?w=300)](https://mckellar.files.wordpress.com/2014/12/31.png) [![4](https://mckellar.files.wordpress.com/2014/12/4.png?w=168)](https://mckellar.files.wordpress.com/2014/12/4.png)
+[![1](/assets/images/2014/12/11.png)](/assets/images/2014/12/11.png) [![2](/assets/images/2014/12/21.png?w=300)](/assets/images/2014/12/21.png) [![3](/assets/images/2014/12/31.png?w=300)](/assets/images/2014/12/31.png) [![4](/assets/images/2014/12/4.png?w=168)](/assets/images/2014/12/4.png)

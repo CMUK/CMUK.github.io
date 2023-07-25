@@ -1,12 +1,6 @@
 ---
-author: cmuk
-comments: true
 date: 2012-07-15 16:11:37+00:00
-layout: post
-link: https://mckellar.wordpress.com/2012/07/15/first-android-game-lilypad-jump/
-slug: first-android-game-lilypad-jump
 title: First Android Game LilyPad Jump
-wordpress_id: 596
 categories:
   - Android Game Dev
 tags:

@@ -1,12 +1,6 @@
 ---
-author: cmuk
-comments: true
 date: 2008-10-12 14:55:36+00:00
-layout: post
-link: https://mckellar.wordpress.com/2008/10/12/intro-to-3d-graphics-week-2-matrices/
-slug: intro-to-3d-graphics-week-2-matrices
 title: Intro to 3D graphics week 2 Matrices
-wordpress_id: 47
 categories:
   - Intro to 3D Graphics
 tags:

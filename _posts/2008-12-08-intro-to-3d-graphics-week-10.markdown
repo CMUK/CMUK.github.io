@@ -1,12 +1,6 @@
 ---
-author: cmuk
-comments: true
 date: 2008-12-08 08:56:35+00:00
-layout: post
-link: https://mckellar.wordpress.com/2008/12/08/intro-to-3d-graphics-week-10/
-slug: intro-to-3d-graphics-week-10
 title: Intro to 3D Graphics Week 10
-wordpress_id: 189
 categories:
   - Intro to 3D Graphics
 ---
@@ -15,12 +9,12 @@ This weeks intro to 3D ive been struggling with the gouraud lighthing/shading i 
 
 Flat no gouraud
 
-[![](http://i81.photobucket.com/albums/j223/CMUK/flat.png)](http://i81.photobucket.com/albums/j223/CMUK/flat.png)
+[![](/assets/images/flat.png)](/assets/images/flat.png)
 
 Point Gouraud
 
-[![](http://i81.photobucket.com/albums/j223/CMUK/gurupoint1.png)](http://i81.photobucket.com/albums/j223/CMUK/gurupoint1.png)
+[![](/assets/images/gurupoint1.png)](/assets/images/gurupoint1.png)
 
 Directional Gouraud wrong
 
-[![](http://i81.photobucket.com/albums/j223/CMUK/gurudirectionalwrong.png)](http://i81.photobucket.com/albums/j223/CMUK/gurudirectionalwrong.png)
+[![](/assets/images/gurudirectionalwrong.png)](/assets/images/gurudirectionalwrong.png)

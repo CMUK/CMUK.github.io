@@ -1,13 +1,7 @@
 ---
-author: cmuk
-comments: true
 date: 2014-11-02 19:04:33+00:00
-layout: post
-link: https://mckellar.wordpress.com/?p=604
 published: false
-slug: privacypolicy
 title: Gear Fit Places Privacy Policy
-wordpress_id: 604
 categories:
   - Gear Fit
 ---

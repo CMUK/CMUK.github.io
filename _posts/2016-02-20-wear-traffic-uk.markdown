@@ -1,12 +1,6 @@
 ---
-author: cmuk
-comments: true
 date: 2016-02-20 14:20:11+00:00
-layout: post
-link: https://mckellar.wordpress.com/2016/02/20/wear-traffic-uk/
-slug: wear-traffic-uk
 title: Wear Traffic UK
-wordpress_id: 636
 tags:
   - Android
   - Android Wear
@@ -34,4 +28,4 @@ Features:
 - Traffic cards - set alarms to notify you on traffic, ideal for checking traffic before leaving for work. using android wear cards it works separately to the main app
 - Screen off/phone locked support - the app will work even if your phone screen is off and your phone is locked.
 
-![WearTrafficUKPromoNew.png](https://mckellar.files.wordpress.com/2016/02/weartrafficukpromonew.png)![watchDemo.png](https://mckellar.files.wordpress.com/2016/02/watchdemo.png)
+![WearTrafficUKPromoNew.png](/assets/images/2016/02/weartrafficukpromonew.png)![watchDemo.png](/assets/images/2016/02/watchdemo.png)

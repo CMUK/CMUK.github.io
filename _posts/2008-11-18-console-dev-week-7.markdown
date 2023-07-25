@@ -1,12 +1,6 @@
 ---
-author: cmuk
-comments: true
 date: 2008-11-18 08:39:06+00:00
-layout: post
-link: https://mckellar.wordpress.com/2008/11/18/console-dev-week-7/
-slug: console-dev-week-7
 title: Console Dev Week 7
-wordpress_id: 158
 categories:
   - Console Development
 ---

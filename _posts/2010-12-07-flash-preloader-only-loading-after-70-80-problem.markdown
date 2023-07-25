@@ -1,12 +1,6 @@
 ---
-author: cmuk
-comments: true
 date: 2010-12-07 18:00:33+00:00
-layout: post
-link: https://mckellar.wordpress.com/2010/12/07/flash-preloader-only-loading-after-70-80-problem/
-slug: flash-preloader-only-loading-after-70-80-problem
 title: Flash Preloader only loading after 70-80% problem
-wordpress_id: 536
 categories:
   - Flash
 ---

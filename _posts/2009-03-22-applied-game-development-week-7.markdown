@@ -1,12 +1,6 @@
 ---
-author: cmuk
-comments: true
 date: 2009-03-22 19:38:35+00:00
-layout: post
-link: https://mckellar.wordpress.com/2009/03/22/applied-game-development-week-7/
-slug: applied-game-development-week-7
 title: Applied Game Development Week 7
-wordpress_id: 385
 categories:
   - Applied Game Development
 ---

@@ -1,12 +1,6 @@
 ---
-author: cmuk
-comments: true
 date: 2010-07-30 10:57:41+00:00
-layout: post
-link: https://mckellar.wordpress.com/2010/07/30/placement-year/
-slug: placement-year
 title: Placement year
-wordpress_id: 443
 categories:
   - Other Projects
 ---

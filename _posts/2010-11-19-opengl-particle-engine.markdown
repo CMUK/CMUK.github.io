@@ -1,12 +1,6 @@
 ---
-author: cmuk
-comments: true
 date: 2010-11-19 10:17:09+00:00
-layout: post
-link: https://mckellar.wordpress.com/2010/11/19/opengl-particle-engine/
-slug: opengl-particle-engine
 title: OpenGL Particle Engine
-wordpress_id: 491
 categories:
   - OpenGL
 ---

@@ -1,12 +1,6 @@
 ---
-author: cmuk
-comments: true
 date: 2011-05-09 13:03:17+00:00
-layout: post
-link: https://mckellar.wordpress.com/2011/05/09/c-and-python-piano-application/
-slug: c-and-python-piano-application
 title: C# and Python Piano Application
-wordpress_id: 566
 categories:
   - Platforms and Tools
 ---
@@ -15,4 +9,4 @@ In the module Languages, Platforms and Tools I learnt a new language of my choic
 
 The piano application loads and saves to an SQL database with the pre set songs and also the user recorded songs. Below is a video of it in action:
 
-[youtube=http://www.youtube.com/watch?v=1CWicKyK9As]
+{% include video id="1CWicKyK9As" provider="youtube" %}

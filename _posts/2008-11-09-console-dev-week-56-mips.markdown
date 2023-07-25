@@ -1,12 +1,6 @@
 ---
-author: cmuk
-comments: true
 date: 2008-11-09 13:57:02+00:00
-layout: post
-link: https://mckellar.wordpress.com/2008/11/09/console-dev-week-56-mips/
-slug: console-dev-week-56-mips
 title: Console Dev Week 5+6 MIPS
-wordpress_id: 144
 categories:
   - Console Development
 ---

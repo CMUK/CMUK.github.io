@@ -1,12 +1,6 @@
 ---
-author: cmuk
-comments: true
 date: 2010-12-12 18:35:11+00:00
-layout: post
-link: https://mckellar.wordpress.com/2010/12/12/networking-java-multi-user-battleships/
-slug: networking-java-multi-user-battleships
 title: Networking Java multi user battleships
-wordpress_id: 511
 categories:
   - Java
 ---
@@ -28,4 +22,4 @@ Threading – used for listening for connection both UDP/TCP, receiving messages
 
 Application layer protocol – used for the game logic and interfacing with the server messages, a state machine was used to control the flow of game play and structure the logic easier.
 
-[![](https://mckellar.files.wordpress.com/2017/10/battleshipsgame.png)](https://mckellar.files.wordpress.com/2017/10/battleshipsgame.png)
+[![](/assets/images/2017/10/battleshipsgame.png)](/assets/images/2017/10/battleshipsgame.png)

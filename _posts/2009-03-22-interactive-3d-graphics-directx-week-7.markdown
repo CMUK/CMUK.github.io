@@ -1,12 +1,6 @@
 ---
-author: cmuk
-comments: true
 date: 2009-03-22 16:54:06+00:00
-layout: post
-link: https://mckellar.wordpress.com/2009/03/22/interactive-3d-graphics-directx-week-7/
-slug: interactive-3d-graphics-directx-week-7
 title: Interactive 3D Graphics (DirectX) Week 7
-wordpress_id: 382
 categories:
   - Interactive 3D Graphics (DirectX)
 ---

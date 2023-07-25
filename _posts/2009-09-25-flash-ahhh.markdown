@@ -1,12 +1,6 @@
 ---
-author: cmuk
-comments: true
 date: 2009-09-25 19:04:05+00:00
-layout: post
-link: https://mckellar.wordpress.com/2009/09/25/flash-ahhh/
-slug: flash-ahhh
 title: Flash Ahhh
-wordpress_id: 424
 categories:
   - Flash
 ---
@@ -19,4 +13,4 @@ After receiving an email from a lecturer about a flash game competition I decide
 
 [http://www.arrivabus.co.uk/buster/](http://www.arrivabus.co.uk/buster/)
 
-[![](https://mckellar.files.wordpress.com/2017/10/busterarriva-1.png)](http://www.arrivabus.co.uk/buster/)
+[![](/assets/images/2017/10/busterarriva-1.png)](http://www.arrivabus.co.uk/buster/)

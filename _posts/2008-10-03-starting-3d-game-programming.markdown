@@ -1,12 +1,6 @@
 ---
-author: cmuk
-comments: true
 date: 2008-10-03 19:26:31+00:00
-layout: post
-link: https://mckellar.wordpress.com/2008/10/03/starting-3d-game-programming/
-slug: starting-3d-game-programming
 title: Starting 3D Game Programming
-wordpress_id: 10
 categories:
   - Other Projects
 tags:
@@ -30,7 +24,7 @@ Current features:
 - 360 pad support
 - Map editor
 
-![](http://i81.photobucket.com/albums/j223/CMUK/BlockFort1.png)![](http://i81.photobucket.com/albums/j223/CMUK/BlockFort2.png)
+![](/assets/images/BlockFort1.png)![](/assets/images/BlockFort2.png)
 
 <blockquote>Basic collision code
 

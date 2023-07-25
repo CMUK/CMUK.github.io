@@ -1,12 +1,6 @@
 ---
-author: cmuk
-comments: true
 date: 2008-12-17 08:05:58+00:00
-layout: post
-link: https://mckellar.wordpress.com/2008/12/17/game-dev-week-12/
-slug: game-dev-week-12
 title: Game Dev Week 12
-wordpress_id: 193
 categories:
   - Game Development Techniques
 ---

@@ -1,12 +1,6 @@
 ---
-author: cmuk
-comments: true
 date: 2010-11-12 20:06:40+00:00
-layout: post
-link: https://mckellar.wordpress.com/2010/11/12/ai-generic-perception-system/
-slug: ai-generic-perception-system
 title: AI Generic Perception System
-wordpress_id: 522
 categories:
   - AI
 ---
@@ -19,5 +13,5 @@ All the information that gets detected by the agent gets processed and acted upo
 
 In my demo I use an environment sensor for walls and barrels, various beacon sensors for detecting footsteps, gunshot sounds, dead bodies and enemies
 
-[![](https://mckellar.files.wordpress.com/2017/10/demo.jpg)](https://mckellar.files.wordpress.com/2017/10/demo.jpg)
-http://www.youtube.com/watch?v=52U3mW9NpHg
+[![](/assets/images/2017/10/demo.jpg)](/assets/images/2017/10/demo.jpg)
+{% include video id="52U3mW9NpHg" provider="youtube" %}

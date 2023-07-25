@@ -1,13 +1,7 @@
 ---
-author: cmuk
-comments: true
 date: 2012-07-16 11:42:10+00:00
-layout: post
-link: https://mckellar.wordpress.com/?p=908
 published: false
-slug: lilypad-jump-privacy-policy
 title: LilyPad Jump Privacy Policy
-wordpress_id: 908
 ---
 
 LilyPad Jump uses the following permission: android.permission.READ_PHONE_STATE

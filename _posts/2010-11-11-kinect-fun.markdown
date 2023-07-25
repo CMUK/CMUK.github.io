@@ -1,13 +1,7 @@
 ---
-author: cmuk
-comments: true
 date: 2010-11-11 18:53:09+00:00
-layout: post
-link: https://mckellar.wordpress.com/?p=517
 published: false
-slug: kinect-fun
 title: Kinect fun
-wordpress_id: 517
 categories:
   - Other Projects
 ---

@@ -1,12 +1,6 @@
 ---
-author: cmuk
-comments: true
 date: 2009-03-30 19:21:59+00:00
-layout: post
-link: https://mckellar.wordpress.com/2009/03/30/mobile-devices-development-diary-2/
-slug: mobile-devices-development-diary-2
 title: Mobile Devices Development Diary 2
-wordpress_id: 395
 categories:
   - Mobile Devices
 ---

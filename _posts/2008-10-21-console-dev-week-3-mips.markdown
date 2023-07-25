@@ -1,12 +1,6 @@
 ---
-author: cmuk
-comments: true
 date: 2008-10-21 16:23:37+00:00
-layout: post
-link: https://mckellar.wordpress.com/2008/10/21/console-dev-week-3-mips/
-slug: console-dev-week-3-mips
 title: Console Dev Week 3 MIPS
-wordpress_id: 94
 categories:
   - Console Development
 ---

@@ -1,12 +1,6 @@
 ---
-author: cmuk
-comments: true
 date: 2009-03-01 19:21:49+00:00
-layout: post
-link: https://mckellar.wordpress.com/2009/03/01/mobile-devices-week-5/
-slug: mobile-devices-week-5
 title: Mobile Devices Week 5
-wordpress_id: 355
 categories:
   - Mobile Devices
 ---

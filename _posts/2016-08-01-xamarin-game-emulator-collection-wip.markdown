@@ -1,12 +1,6 @@
 ---
-author: cmuk
-comments: true
 date: 2016-08-01 10:23:23+00:00
-layout: post
-link: https://mckellar.wordpress.com/2016/08/01/xamarin-game-emulator-collection-wip/
-slug: xamarin-game-emulator-collection-wip
 title: Xamarin Game Emulator Collection (WIP)
-wordpress_id: 782
 categories:
   - Xamarin
 tags:

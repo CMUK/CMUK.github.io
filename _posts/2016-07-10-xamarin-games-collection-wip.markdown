@@ -1,12 +1,6 @@
 ---
-author: cmuk
-comments: true
 date: 2016-07-10 15:05:24+00:00
-layout: post
-link: https://mckellar.wordpress.com/2016/07/10/xamarin-games-collection-wip/
-slug: xamarin-games-collection-wip
 title: Xamarin Games Collection (WIP)
-wordpress_id: 708
 categories:
   - Xamarin
 tags:
@@ -33,4 +27,4 @@ Xamarin is excellent to work with by developing in visual studio, C# and MVC I
 
 Performance is good loading in thousands of games and scrolling through the list easily, most of the goals have been met but I will be carrying on with this project and have exciting things lined up. Here is a sneak peak of the app working:
 
-![giphy (1).gif](https://mckellar.files.wordpress.com/2016/09/giphy-1.gif)![GifMenu.gif](https://mckellar.files.wordpress.com/2016/09/gifmenu.gif)
+![giphy (1).gif](/assets/images/2016/09/giphy-1.gif)![GifMenu.gif](/assets/images/2016/09/gifmenu.gif)

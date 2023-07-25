@@ -1,12 +1,6 @@
 ---
-author: cmuk
-comments: true
 date: 2009-03-28 19:04:26+00:00
-layout: post
-link: https://mckellar.wordpress.com/2009/03/28/mobile-devices-battleships-game/
-slug: mobile-devices-battleships-game
 title: Mobile Devices Battleships Game
-wordpress_id: 390
 categories:
   - Mobile Devices
 ---

@@ -1,12 +1,6 @@
 ---
-author: cmuk
-comments: true
 date: 2008-10-17 11:03:08+00:00
-layout: post
-link: https://mckellar.wordpress.com/2008/10/17/mipsr3000/
-slug: mipsr3000
 title: MIPSr3000
-wordpress_id: 54
 categories:
   - Console Development
 ---
@@ -15,7 +9,7 @@ This week i have been looking at the playstation again and used a dissembler to 
 
 most emulators struggle to emulate the playstation as there lack of low level access to the CD-ROM. Also the 16bit number changes on all games in different countries so its hard to bypass universally. You would still require the original CD to get the code and to change the copys code is the best way as it requires less coding. The other way would be via action replay cartridge editing the memory.
 
-![](http://i81.photobucket.com/albums/j223/CMUK/MIPS.png)
+![](/assets/images/MIPS.png)
 
 Binary revision
 

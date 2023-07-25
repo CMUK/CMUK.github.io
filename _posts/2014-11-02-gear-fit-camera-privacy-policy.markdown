@@ -1,13 +1,7 @@
 ---
-author: cmuk
-comments: true
 date: 2014-11-02 11:20:27+00:00
-layout: post
-link: https://mckellar.wordpress.com/?p=892
 published: false
-slug: gear-fit-camera-privacy-policy
 title: Gear Fit Camera Privacy Policy
-wordpress_id: 892
 categories:
   - Gear Fit
 ---

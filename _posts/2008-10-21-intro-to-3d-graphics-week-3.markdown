@@ -1,12 +1,6 @@
 ---
-author: cmuk
-comments: true
 date: 2008-10-21 15:00:01+00:00
-layout: post
-link: https://mckellar.wordpress.com/2008/10/21/intro-to-3d-graphics-week-3/
-slug: intro-to-3d-graphics-week-3
 title: Intro to 3D graphics week 3
-wordpress_id: 71
 categories:
   - Intro to 3D Graphics
 tags:
@@ -42,7 +36,7 @@ Scaling is simply increasing the x,y,z scale in the direction you want to increa
 
 Rotation
 
-![](http://i81.photobucket.com/albums/j223/CMUK/MatrixRotation.png)
+![](/assets/images/MatrixRotation.png)
 
 Transform function
 

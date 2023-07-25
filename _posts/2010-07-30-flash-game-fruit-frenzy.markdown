@@ -1,18 +1,12 @@
 ---
-author: cmuk
-comments: true
 date: 2010-07-30 11:34:34+00:00
-layout: post
-link: https://mckellar.wordpress.com/2010/07/30/flash-game-fruit-frenzy/
-slug: flash-game-fruit-frenzy
 title: Flash Game Fruit Frenzy
-wordpress_id: 446
 categories:
   - Flash
 ---
 
-[![](https://mckellar.files.wordpress.com/2017/10/froot.jpg)](http://cm.1free.ws/)
-[![](https://mckellar.files.wordpress.com/2017/10/froot1.jpg)](http://cm.1free.ws/)
+[![](/assets/images/2017/10/froot.jpg)](http://cm.1free.ws/)
+[![](/assets/images/2017/10/froot1.jpg)](http://cm.1free.ws/)
 [Click here to Play](http://cm.1free.ws/)
 
 Fruit Frenzy is a flash game built on my previous flash game buster, It does just look a lot like a Reskin but there is actually a lot more to it. The main feature I wanted buster to have all along was a dynamically resizing grid, The reason I couldn’t manage this the first time round was due to time constraints, work and just general lack of experience with flash and action script. This time around I’ve managed it, I am very pleased with the way Fruit Frenzy has turned out Its still very much experimental and a learning exercise for me to get more familiar with flash and action script. It suffered quite bad feature creep which was fun and challenging, but a real headache because it created so many new bugs some as severe as crashing the game, most of them were quite rare and hard to track down, a lesson learned the very hard way luckily I had the time to fix them.

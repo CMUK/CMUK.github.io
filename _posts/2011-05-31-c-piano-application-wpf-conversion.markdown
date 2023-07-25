@@ -1,12 +1,6 @@
 ---
-author: cmuk
-comments: true
 date: 2011-05-31 11:17:22+00:00
-layout: post
-link: https://mckellar.wordpress.com/2011/05/31/c-piano-application-wpf-conversion/
-slug: c-piano-application-wpf-conversion
 title: C# Piano Application WPF conversion
-wordpress_id: 579
 categories:
   - Other Projects
 ---

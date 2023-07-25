@@ -1,12 +1,6 @@
 ---
-author: cmuk
-comments: true
 date: 2009-02-07 13:21:29+00:00
-layout: post
-link: https://mckellar.wordpress.com/2009/02/07/mobile-devices-week-2/
-slug: mobile-devices-week-2
 title: Mobile Devices Week 2
-wordpress_id: 253
 categories:
   - Mobile Devices
 tags:
@@ -32,4 +26,4 @@ We then looked at **Commands** which are same as buttons such as Command.Exit.
 
 This weeks task was to create a MIDlet application which took userinput and displayed it on screen. I found this quite easy as it was similair to C#. I did have to look up the different properties of TextField and the ChoiceGroup to work out how to do the different radio boxes. I have got the radio boxes working but im still having trouble displaying if more that one choice has been selected.
 
-[![](https://mckellar.files.wordpress.com/2017/10/javatask.png)](https://mckellar.files.wordpress.com/2017/10/javatask.png)
+[![](/assets/images/2017/10/javatask.png)](/assets/images/2017/10/javatask.png)

@@ -1,12 +1,6 @@
 ---
-author: cmuk
-comments: true
 date: 2008-10-10 11:35:20+00:00
-layout: post
-link: https://mckellar.wordpress.com/2008/10/10/console-dev-week-12/
-slug: console-dev-week-12
 title: Console Dev week 1+2
-wordpress_id: 44
 categories:
   - Console Development
 tags:

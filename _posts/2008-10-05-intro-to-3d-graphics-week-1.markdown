@@ -1,12 +1,6 @@
 ---
-author: cmuk
-comments: true
 date: 2008-10-05 14:05:23+00:00
-layout: post
-link: https://mckellar.wordpress.com/2008/10/05/intro-to-3d-graphics-week-1/
-slug: intro-to-3d-graphics-week-1
 title: Intro to 3d Graphics Week 1
-wordpress_id: 18
 categories:
   - Intro to 3D Graphics
 tags:
@@ -16,7 +10,7 @@ tags:
   - Programming
 ---
 
-This week ive been looking at GDI+ in C++. In the lesson i created my first GDI+ window which i drew lines and shapes on ([pic](http://i81.photobucket.com/albums/j223/CMUK/GDI.png)). I looked at loading images onto the window which was very easy with help from the MSDN. After having a play with GDI+ i looked at Vector maths. This weeks tasks were maths based and important for later weeks.
+This week ive been looking at GDI+ in C++. In the lesson i created my first GDI+ window which i drew lines and shapes on ([pic](/assets/images/GDI.png)). I looked at loading images onto the window which was very easy with help from the MSDN. After having a play with GDI+ i looked at Vector maths. This weeks tasks were maths based and important for later weeks.
 
 ## **Vectors**
 

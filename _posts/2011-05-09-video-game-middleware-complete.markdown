@@ -1,12 +1,6 @@
 ---
-author: cmuk
-comments: true
 date: 2011-05-09 12:32:55+00:00
-layout: post
-link: https://mckellar.wordpress.com/2011/05/09/video-game-middleware-complete/
-slug: video-game-middleware-complete
 title: Video Game Middleware Complete
-wordpress_id: 553
 categories:
   - Video Game Middleware
 ---
@@ -24,4 +18,4 @@ FMOD
 
 Here is a video of the game in action it shows a complete walkthrough and shows the functionality of all the middlewares.
 
-[youtube=http://www.youtube.com/watch?v=7OaHWQRWjdk]
+{% include video id="7OaHWQRWjdk" provider="youtube" %}

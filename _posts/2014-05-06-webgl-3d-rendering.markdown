@@ -1,12 +1,6 @@
 ---
-author: cmuk
-comments: true
 date: 2014-05-06 18:36:00+00:00
-layout: post
-link: https://mckellar.wordpress.com/2014/05/06/webgl-3d-rendering/
-slug: webgl-3d-rendering
 title: WebGL 3D Rendering
-wordpress_id: 642
 categories:
   - WebGL
 tags:

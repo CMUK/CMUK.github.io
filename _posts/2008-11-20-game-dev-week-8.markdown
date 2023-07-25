@@ -1,12 +1,6 @@
 ---
-author: cmuk
-comments: true
 date: 2008-11-20 12:39:02+00:00
-layout: post
-link: https://mckellar.wordpress.com/2008/11/20/game-dev-week-8/
-slug: game-dev-week-8
 title: Game Dev Week 8
-wordpress_id: 160
 categories:
   - Game Development Techniques
 ---

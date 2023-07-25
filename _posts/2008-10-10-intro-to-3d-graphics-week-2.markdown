@@ -1,12 +1,6 @@
 ---
-author: cmuk
-comments: true
 date: 2008-10-10 11:19:03+00:00
-layout: post
-link: https://mckellar.wordpress.com/2008/10/10/intro-to-3d-graphics-week-2/
-slug: intro-to-3d-graphics-week-2
 title: Intro to 3d Graphics Week 2
-wordpress_id: 40
 categories:
   - Intro to 3D Graphics
 tags:

@@ -1,12 +1,6 @@
 ---
-author: cmuk
-comments: true
 date: 2022-07-22 13:58:10+00:00
-layout: post
-link: https://mckellar.wordpress.com/2022/07/22/ionic-framework-v6-0-with-reactjs-17-0-2-vs-net-maui-17-3-preview-4/
-slug: ionic-framework-v6-0-with-reactjs-17-0-2-vs-net-maui-17-3-preview-4
 title: Ionic Framework v6.0 with ReactJs 17.0.2 Vs .NET MAUI 17.3 Preview 4
-wordpress_id: 1133
 categories:
   - Mobile Apps
 tags:
@@ -98,12 +92,12 @@ There are active PR for each so I hope they will be resolved in the next preview
 Below is a video of side by side apps running:  
 Left is Ionic, Right is .NET MAUI
 
-https://youtube.com/shorts/1FVq1Q9hp18?feature=share
+{% include video id="1FVq1Q9hp18" provider="youtube" %}
 
-[![](https://mckellar.files.wordpress.com/2022/07/maui-home.jpg?w=491)](https://mckellar.files.wordpress.com/2022/07/maui-home.jpg)
+[![](/assets/images/2022/07/maui-home.jpg?w=491)](/assets/images/2022/07/maui-home.jpg)
 
-[![](https://mckellar.files.wordpress.com/2022/07/maui-gallery.jpg?w=489)](https://mckellar.files.wordpress.com/2022/07/maui-gallery.jpg)
+[![](/assets/images/2022/07/maui-gallery.jpg?w=489)](/assets/images/2022/07/maui-gallery.jpg)
 
-[![](https://mckellar.files.wordpress.com/2022/07/ionic-home.jpg?w=490)](https://mckellar.files.wordpress.com/2022/07/ionic-home.jpg)
+[![](/assets/images/2022/07/ionic-home.jpg?w=490)](/assets/images/2022/07/ionic-home.jpg)
 
-[![](https://mckellar.files.wordpress.com/2022/07/ionic-gallery.jpg?w=491)](https://mckellar.files.wordpress.com/2022/07/ionic-gallery.jpg)
+[![](/assets/images/2022/07/ionic-gallery.jpg?w=491)](/assets/images/2022/07/ionic-gallery.jpg)

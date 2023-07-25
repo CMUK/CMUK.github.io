@@ -1,12 +1,6 @@
 ---
-author: cmuk
-comments: true
 date: 2009-02-22 22:17:25+00:00
-layout: post
-link: https://mckellar.wordpress.com/2009/02/22/mobile-devices-week-4/
-slug: mobile-devices-week-4
 title: Mobile Devices Week 4
-wordpress_id: 336
 categories:
   - Mobile Devices
 ---

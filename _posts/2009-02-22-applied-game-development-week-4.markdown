@@ -1,12 +1,6 @@
 ---
-author: cmuk
-comments: true
 date: 2009-02-22 21:38:07+00:00
-layout: post
-link: https://mckellar.wordpress.com/2009/02/22/applied-game-development-week-4/
-slug: applied-game-development-week-4
 title: Applied Game Development Week 4
-wordpress_id: 332
 categories:
   - Applied Game Development
 ---

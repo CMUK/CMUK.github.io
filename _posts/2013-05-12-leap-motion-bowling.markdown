@@ -1,12 +1,6 @@
 ---
-author: cmuk
-comments: true
 date: 2013-05-12 14:46:58+00:00
-layout: post
-link: https://mckellar.wordpress.com/2013/05/12/leap-motion-bowling/
-slug: leap-motion-bowling
 title: Leap Motion Bowling
-wordpress_id: 833
 tags:
   - Csharp
   - Leap Motion
@@ -18,7 +12,7 @@ Leap motion is due out in the next few months, I was lucky enough to get on the 
 
 ![](https://images-na.ssl-images-amazon.com/images/I/713rS-8XOJL._SX1200_.jpg)
 
-![Bowling1.PNG](https://mckellar.files.wordpress.com/2013/05/bowling1.png)![Bowling2.PNG](https://mckellar.files.wordpress.com/2013/05/bowling2.png)
+![Bowling1.PNG](/assets/images/2013/05/bowling1.png)![Bowling2.PNG](/assets/images/2013/05/bowling2.png)
 
 Simple controls are:
 

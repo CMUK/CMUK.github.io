@@ -1,19 +1,13 @@
 ---
-author: cmuk
-comments: true
 date: 2008-10-26 12:28:21+00:00
-layout: post
-link: https://mckellar.wordpress.com/2008/10/26/intro-to-3d-graphics-week-4/
-slug: intro-to-3d-graphics-week-4
 title: Intro to 3D graphics week 4
-wordpress_id: 97
 categories:
   - Intro to 3D Graphics
 ---
 
 This week i have been looking at virtual cameras in 3D space. I learnt about the uses of a virtual camera in that it is used as if it was your eyes looking around the world space. We looked at the Roll(Z axis),Pitch(X axis),Yaw(Y axis) this is used to rotate the camera using a matrix to apply rotation. We then looked at a funny a thing called Gimbal Lock as mythical as it sounds its actually a problem that occurs with Eulers angles theory. It is hard to explain without seeing so here is a diagram
 
-[youtube=http://www.youtube.com/watch?v=rrUCBOlJdt4]
+{% include video id="rrUCBOlJdt4" provider="youtube" %}
 
 Basically Gimbal Lock is when two axis align and you lose a degree of freedom
 

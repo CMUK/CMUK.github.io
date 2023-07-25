@@ -1,19 +1,13 @@
 ---
-author: cmuk
-comments: true
 date: 2008-11-02 12:17:25+00:00
-layout: post
-link: https://mckellar.wordpress.com/2008/11/02/intro-to-3d-graphics-week-5/
-slug: intro-to-3d-graphics-week-5
 title: Intro to 3D Graphics Week 5
-wordpress_id: 120
 categories:
   - Intro to 3D Graphics
 ---
 
 This week i have been looking at getting the model to display on screen using GUI. I have had to implement a couple of new classes such as the MyApp class which is used as the rendering pipleline this is where everything gets made and rendered to the screen. I have ran into a few problems with implementing this but should get this sorted out tomorrow. Everything else is working good i manged to get my model loader working which takes basic MD2 files and stores there polys and verts into an array which will be used to display the model to the screen. In the lecture we learnt about FOV in games and how it works which is just modifying the view frustrums horizontal and vertical FOV angles. We then looked at the view frustrum and its near and far clip planes we looked at a video of the game Turok which showed bad far clipping distance and was masked with fog.
 
-[youtube=http://uk.youtube.com/watch?v=PaBUQexnSfI&feature=related]
+{% include video id="PaBUQexnSfI" provider="youtube" %}
 
 ### **Simulating lighting in the virtual world**
 
